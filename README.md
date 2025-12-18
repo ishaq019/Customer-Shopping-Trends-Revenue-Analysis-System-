@@ -45,6 +45,9 @@ Developed an interactive dashboard to visualize the SQL findings:
 │   └── customer_behavior_dashboard.pbix  # Power BI source file
 └── README.md
 
+```bash
+
+
 🚀 How to Run This Project
 Prerequisites
 Python 3.x (Pandas, SQLAlchemy, PyODBC/Psycopg2)
